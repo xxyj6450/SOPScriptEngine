@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ScriptEngine", "SOPScriptEngine\ScriptEngine.vbproj", "{A252EBF7-07D1-4C17-8D8D-65D952317F5D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TEST", "TEST\TEST.vbproj", "{EE5CE50B-32D1-455B-9F17-44BE4204FEC4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Text", "..\SQL_REGEXP\Text.vbproj", "{595727C5-EBAB-4C71-A607-7352ED4A6494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A252EBF7-07D1-4C17-8D8D-65D952317F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A252EBF7-07D1-4C17-8D8D-65D952317F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A252EBF7-07D1-4C17-8D8D-65D952317F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A252EBF7-07D1-4C17-8D8D-65D952317F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A252EBF7-07D1-4C17-8D8D-65D952317F5D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EE5CE50B-32D1-455B-9F17-44BE4204FEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5CE50B-32D1-455B-9F17-44BE4204FEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595727C5-EBAB-4C71-A607-7352ED4A6494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595727C5-EBAB-4C71-A607-7352ED4A6494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595727C5-EBAB-4C71-A607-7352ED4A6494}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{595727C5-EBAB-4C71-A607-7352ED4A6494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595727C5-EBAB-4C71-A607-7352ED4A6494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595727C5-EBAB-4C71-A607-7352ED4A6494}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
